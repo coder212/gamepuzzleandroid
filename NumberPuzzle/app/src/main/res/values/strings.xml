@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NumberGame</string>
+    <string name="bname">MULAI</string>
+    <string name="best">nilai terbaik</string>
+</resources>
